@@ -658,3 +658,148 @@ color: #ffffff;
   font-size: 14px;
 }
 }
+@media (max-width:425px){
+  nav{
+    display: none;
+  }
+  .btn{
+    display: none;
+  }
+  .hero{
+    flex-direction: column-reverse;
+  }
+  .textside{
+    width: 100%;
+    margin-top: 1rem;
+  }
+  .imageside{
+    width: 100%;
+  }
+  .heroinput input{
+    width:70%;
+  }
+.headerhero{
+  padding-bottom: 3rem;
+}
+.affiliate{
+  margin: auto;
+  width: 50%
+
+}
+.affilate img{
+  margin-right: 0;
+  margin-left: 0;
+  margin-top: 2rem;
+}
+.medicine{
+flex-direction: column;
+}
+.medicinetext{
+  width: 100%;
+  margin-top: 2rem;
+}
+.medicineimage{
+  width: 100%;
+}
+.medicinetext h4{
+  width: 60%;
+}
+.medicinetext li{
+  font-size: 17px;
+}
+.doorstep{
+  flex-direction: column-reverse;
+  }
+  .doorsteptext{
+    width: 100%;
+    margin-top: 2rem;
+  }
+  .doorstepimage{
+    width: 100%;
+  }
+  .doorsteptext h4{
+    width: 60%;
+  }
+  .doorsteptext li{
+    font-size: 17px;
+  }
+  .profile{
+    flex-direction: column;
+    }
+    .profiletext{
+      width: 100%;
+      margin-top: 2rem;
+    }
+    .profileimage{
+      width: 100%;
+    }
+    .profiletext h4{
+      width: 70%;
+    }
+    .profiletext li{
+      font-size: 17px;
+    }
+    .client{
+      flex-direction: column;
+    }.clientImage{
+      width: 100%;
+    }
+    .clientText{
+      width: 80%;
+      margin: auto;
+    }
+    .clientText p{
+      font-size: 18px;
+    }
+    .clientText h5{
+      font-size: 18px;
+    }
+    .footer{
+      margin-top: 2rem;
+    }
+    .newsletter{
+      flex-direction: column;
+      }
+      .signup{
+        width: 100%;
+      }
+      .email{
+        width: 100%;
+      }
+      .footLinks{
+        flex-direction: column;
+      }
+      .footRight{
+        display: block;
+        width: 100%;
+      }
+      .footLeft{
+        width: 100%;
+      }
+      .signup h3{
+        font-size: 24px;
+      }
+      .signup p{
+        font-size: 18px;
+      }
+      .email label{
+        font-size: 18px;
+      }
+      .footLeft p{
+        font-size: 18px;
+      }
+      .quickLinks h5{
+        font-size: 18px;
+      }
+      .quickLinks p{
+        font-size: 18px;
+      }
+      .quickLinks{
+        margin-bottom: 1rem;
+      }
+    }
+    
+      
+  
+
+  }
