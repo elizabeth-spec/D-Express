@@ -35,8 +35,11 @@ nav li {
   font-weight: 500;
   line-height: 21.86px;
   list-style-type: none;
+  text-decoration: none;
 }
-
+a{
+  text-decoration: none;
+}
 .btn button {
   background: #1bc768;
   font-family: Lato;
@@ -802,4 +805,4 @@ flex-direction: column;
       
   
 
-  }
+  
